@@ -1,0 +1,122 @@
+
+Robot starting up
+10...9...8...7...6...5...4...3...2...1...
+Robot ready
+Robot starting up
+9...8...7...6...5...4...3...2...1...
+Robot ready
+Robot starting up
+13...12...11...10...9...8...7...6...5...4...3...2...1...
+Robot ready
+Robot starting up
+6...5...4...3...2...1...
+Robot ready
+Moving robot from [1985, 2787, 577] to [1, 2, 3]
+8...7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [1, 2, 3]
+Robot starting up
+10...9...8...7...6...5...4...3...2...1...
+Robot ready
+Setting acceleration to 7
+Setting velocity to 3
+Robot starting up
+4...3...2...1...
+Robot ready
+Robot starting up
+8...7...6...5...4...3...2...1...
+Robot ready
+Robot starting up
+11...10...9...8...7...6...5...4...3...2...1...
+Robot ready
+Robot starting up
+6...5...4...3...2...1...
+Robot ready
+Moving robot from [10, 100, 100] to [10, 100, 100]
+7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 100]
+Robot starting up
+9...8...7...6...5...4...3...2...1...
+Robot ready
+Moving robot from [10, 100, 100] to [958, 644, 1513]
+7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 100]
+Moving robot from [10, 100, 100] to [958, 644, 1513]
+14...13...12...11...10...9...8...7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 101]
+Already at [10, 100, 101]
+Moving robot from [10, 100, 101] to [958, 644, 1513]
+10...9...8...7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 102]
+Moving robot from [10, 100, 103] to [958, 644, 1513]
+7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 103]
+Robot starting up
+4...3...2...1...
+Robot ready
+Robot starting up
+5...4...3...2...1...
+Robot ready
+Moving robot from [10, 100, 103] to [2709, 305, 674]
+12...11...10...9...8...7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 103]
+Robot starting up
+8...7...6...5...4...3...2...1...
+Robot ready
+Moving robot from [2511, 1590, 1484] to [2511, 1590, 1484]
+12...11...10...9...8...7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 103]
+Robot starting up
+14...13...12...11...10...9...8...7...6...5...4...3...2...1...
+Robot ready
+Robot starting up
+14...13...12...11...10...9...8...7...6...5...4...3...2...1...
+Robot ready
+Moving robot from [1911, 2979, 2292] to [1911, 2979, 2292]
+5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 103]
+Robot starting up
+8...7...6...5...4...3...2...1...
+Robot ready
+Moving robot from [2942, 826, 864] to [10, 100, 103]
+5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 103]
+Robot starting up
+13...12...11...10...9...8...7...6...5...4...3...2...1...
+Robot ready
+Moving robot from [398, 530, 2163] to [10, 100, 103]
+5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 103]
+Moving robot from [10, 100, 103] to [10, 100, 104]
+7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 104]
+Moving robot from [10, 100, 104] to [10, 100, 105]
+9...8...7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 105]
+Moving robot from [10, 100, 105] to [0, 0, 1000]
+8...7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [0, 0, 1000]
+Robot starting up
+12...11...10...9...8...7...6...5...4...3...2...1...
+Robot ready
+Moving robot from [1806, 258, 264] to [10, 100, 105]
+9...8...7...6...5...4...3...2...1...0...
+Movement complete
+Current postion: [10, 100, 105]
+Moving robot from [10, 100, 105] to [0, 0, 1000]
+4...3...2...1...0...
+Movement complete
+Current postion: [0, 0, 1000]
